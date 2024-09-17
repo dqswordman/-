@@ -1,6 +1,6 @@
 操作系统导论(彗星书) Operating-Systems-Three-Easy-Pieces
 
-作者的pdf章节链接 https://pages.cs.wisc.edu/~remzi/OSTEP/
+此textbook开源 最新版本 1.10 主页 https://pages.cs.wisc.edu/~remzi/OSTEP/
 
 薄读笔记 始于 2024/9/8
 
