@@ -35,4 +35,6 @@
 
 6章节 Mechanism: Limited Direct Execution 18/9/24 
 
+7章节 Scheduling: Introduction 19/9/24 
+
 视频/学习资料 参考BV1Xm411f7CM 南京大学 蒋老师的课程 
