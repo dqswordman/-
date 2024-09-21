@@ -39,6 +39,6 @@
 
 8章节 Scheduling: The Multi-Level Feedback Queu 19/9/24 
 
-9章节 Scheduling: Proportional Share 20/9/24
+9章节 Scheduling: Proportional Share 20/9/24      重构了本章节的部分笔记 21/9/24
 
 视频/学习资料 参考BV1Xm411f7CM 南京大学 蒋老师的课程 
