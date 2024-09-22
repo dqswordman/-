@@ -45,4 +45,6 @@
 
 19章节 Paging: Faster Translations (TLBs) 21/9/24 
 
+20章节 Paging: Smaller Tables 22/9/24 
+
 视频/学习资料 参考BV1Xm411f7CM 南京大学 蒋老师的课程 
