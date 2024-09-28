@@ -51,6 +51,8 @@
 
 21章节 Beyond Physical Memory: Mechanisms 24/9/24
 
+对笔记整体构架进行更新 更全面细致 26/9/24
+
 22章节 Beyond Physical Memory: Policies 26/9/24
 
 23章节 Complete Virtual Memory Systems 27/9/24
