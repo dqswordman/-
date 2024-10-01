@@ -7,7 +7,7 @@
 学习进度   
 25-26章节 Concurrency and Threads 9/9/24 
 
-27章节 Thread API  11/9/24
+27章节 Thread API  11/9/24  进行了翻新优化 1/10/24
 
 29章节 Locked Data Structures 14/9/24
 
@@ -61,7 +61,6 @@
 
 37章节 Hard Disk Drives 28/9/24 
 
-
-
+考试周 复习一下ostep跟大纲重叠内容 顺便翻新优化一下老笔记 :) 30/9/24
 
 视频/学习资料 参考BV1Xm411f7CM 南京大学 蒋老师的课程 
