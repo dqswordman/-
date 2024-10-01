@@ -7,7 +7,7 @@
 学习进度   
 25-26章节 Concurrency and Threads 9/9/24 
 
-27章节 Thread API  11/9/24  进行了翻新优化 1/10/24
+27章节 Thread API  11/9/24  对本章节笔记进行了翻新优化 1/10/24
 
 29章节 Locked Data Structures 14/9/24
 
@@ -47,7 +47,7 @@
 
 20章节 Paging: Smaller Tables 22/9/24 
 
-28章节 Lock 23/9/24
+28章节 Lock 23/9/24    对本章节笔记进行了翻新优化 1/10/24
 
 21章节 Beyond Physical Memory: Mechanisms 24/9/24
 
