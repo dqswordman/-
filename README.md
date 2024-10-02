@@ -11,9 +11,9 @@
 
 29章节 Locked Data Structures 14/9/24
 
-30章节 Condition Variables 14/9/24 修复了在一个长小节中笔记省略部分内容的问题 对本章节笔记进行了翻新优化 2/10/24
+30章节 Condition Variables 14/9/24 修复了在一个长小节中笔记省略部分内容的问题    对本章节笔记进行了翻新优化 2/10/24
 
-31章节 Semaphores 15/9/24 
+31章节 Semaphores 15/9/24   对本章节笔记进行了翻新优化 2/10/24
 
 32章节 Concurrency Bugs 15/9/24 
 
