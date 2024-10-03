@@ -17,7 +17,7 @@
 
 32章节 Concurrency Bugs 15/9/24 
 
-3-4章节 Processes 15/9/24 
+3-4章节 Processes 15/9/24    对本章节笔记进行了翻新优化 3/10/24
 
 5章节 Process API 15/9/24 
 
