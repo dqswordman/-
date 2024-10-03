@@ -33,7 +33,7 @@
 
 18章节 Introduction to Paging 18/9/24 
 
-6章节 Mechanism: Limited Direct Execution 18/9/24 
+6章节 Mechanism: Limited Direct Execution 18/9/24    对本章节笔记进行了翻新优化 3/10/24
 
 7章节 Scheduling: Introduction 19/9/24    
 
