@@ -35,9 +35,9 @@
 
 6章节 Mechanism: Limited Direct Execution 18/9/24    对本章节笔记进行了翻新优化 3/10/24
 
-7章节 Scheduling: Introduction 19/9/24    
+7章节 Scheduling: Introduction 19/9/24    对本章节笔记进行了翻新优化 5/10/24    
 
-8章节 Scheduling: The Multi-Level Feedback Queu 19/9/24 
+8章节 Scheduling: The Multi-Level Feedback Queu 19/9/24    对本章节笔记进行了翻新优化 5/10/24 
 
 9章节 Scheduling: Proportional Share 20/9/24      重构了本章节的部分笔记 21/9/24
 
