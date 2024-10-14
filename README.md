@@ -65,4 +65,6 @@
 
 38章节 Redundant Disk Arrays (RAID) 13/10/24 
 
+39章节 Files and Directories 14/10/24 
+
 视频/学习资料 参考BV1Xm411f7CM 南京大学 蒋老师的课程 
